@@ -7,6 +7,7 @@ A list of awesome resources for yare.io
 - [yare-rust-template](https://github.com/swz-gh/yare-rust-template) (uses `yare-rust`)
 - [yareio-rust-template](https://github.com/Jules-Bertholet/yareio-rust-template) (uses `yareio-rs`)
 - [yare.io-cpp](https://github.com/L0laapk3/yare.io-cpp) (uses `yare.io-wasm`)
+- [yare-scala-template](https://github.com/majk-p/yare-scala-template)
 
 ## Language bindings
 
